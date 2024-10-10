@@ -16,21 +16,21 @@ const Hero = () => {
   const slideData = [
     {
       id: 0,
-      img: "/1.jpg",
+      img: "https://png.pngtree.com/thumb_back/fw800/background/20190221/ourmid/pngtree-pink-purple-gradient-beautiful-gradient-gradient-geometric-image_11521.jpg",
       title: "Trending Item",
       mainTitle: "WOMEN'S LATEST FASHION SALE",
       price: "$20",
     },
     {
       id: 1,
-      img: "/2.jpg",
+      img: "https://png.pngtree.com/thumb_back/fw800/background/20190221/ourmid/pngtree-pink-purple-gradient-beautiful-gradient-gradient-geometric-image_11522.jpg",
       title: "Trending Accessories",
       mainTitle: "MODERN SUNGLASSES",
       price: "$15",
     },
     {
       id: 2,
-      img: "/1.jpg",
+      img: "https://png.pngtree.com/thumb_back/fw800/background/20221228/pngtree-pink-banner-e-commerce-promotion-gradient-element-background-image_1501036.jpg",
       title: "Sale Offer",
       mainTitle: "NEW FASHION SUMMER SALE",
       price: "$30",

@@ -34,9 +34,10 @@ const Slide: React.FC<propsType> = ({ img, title, mainTitle, price }) => {
       <Image
         className="w-[100%] h-[300px] md:h-auto rounded-xl object-cover object-right md:object-left-bottom"
         src={img}
+        layout="responsive"
         alt="banner"
-        width={2000}
-        height={2000}
+        width={1200}
+        height={800}
       />
     </div>
   );
